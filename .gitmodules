@@ -7,3 +7,6 @@
 [submodule "meta-ros"]
 	path = meta-ros
 	url = https://github.com/bmwcarit/meta-ros.git
+[submodule "meta-raspberrypi"]
+	path = meta-raspberrypi
+	url = git://git.yoctoproject.org/meta-raspberrypi
