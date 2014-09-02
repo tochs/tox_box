@@ -1,0 +1,9 @@
+[submodule "poky"]
+	path = poky
+	url = git://git.yoctoproject.org/poky
+[submodule "meta-openembedded"]
+	path = meta-openembedded
+	url = git://git.openembedded.org/meta-openembedded
+[submodule "meta-ros"]
+	path = meta-ros
+	url = https://github.com/bmwcarit/meta-ros.git
